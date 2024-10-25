@@ -21,6 +21,7 @@ type system struct {
 	NumberOfThreads    int
 	ExtractionInterval int
 	CheckInterval      int
+	Auth               string
 }
 
 type ssl struct {

@@ -14,6 +14,7 @@ var SystemConfig = &system{
 	NumberOfThreads:    50,
 	ExtractionInterval: 60,
 	CheckInterval:      15,
+	Auth:               "78zJZbYS8LcTSM3",
 }
 
 var SSLConfig = &ssl{
